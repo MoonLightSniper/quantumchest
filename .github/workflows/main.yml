@@ -1,0 +1,9 @@
+QuantumChest/
+  .github/
+    workflows/
+      build.yml        ← this triggers the auto compile
+  src/
+    main/
+      java/...         ← all the Java source files
+      resources/       ← plugin.yml, config.yml, prices.yml
+  pom.xml              ← build instructions
