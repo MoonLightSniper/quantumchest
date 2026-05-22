@@ -1,0 +1,72 @@
+# QuantumChest Price Configuration
+# Set the sell price per 1 item
+# Material names must match Minecraft material names exactly
+# Set to 0 to disable selling that item
+
+prices:
+  # Ores & Ingots
+  IRON_INGOT: 50
+  GOLD_INGOT: 75
+  DIAMOND: 500
+  EMERALD: 250
+  NETHERITE_INGOT: 2000
+  COAL: 10
+  COPPER_INGOT: 25
+  LAPIS_LAZULI: 20
+  REDSTONE: 15
+  QUARTZ: 20
+
+  # Blocks
+  IRON_BLOCK: 450
+  GOLD_BLOCK: 675
+  DIAMOND_BLOCK: 4500
+  EMERALD_BLOCK: 2250
+  NETHERITE_BLOCK: 18000
+  COAL_BLOCK: 90
+  OBSIDIAN: 20
+  HOPPER: 5000
+
+  # Mob Drops
+  ROTTEN_FLESH: 5
+  BONE: 10
+  ARROW: 5
+  STRING: 15
+  SPIDER_EYE: 20
+  GUNPOWDER: 25
+  BLAZE_ROD: 100
+  BLAZE_POWDER: 50
+  GHAST_TEAR: 150
+  MAGMA_CREAM: 75
+  ENDER_PEARL: 100
+  ENDER_EYE: 200
+  SLIME_BALL: 30
+  LEATHER: 30
+  FEATHER: 10
+  RAW_BEEF: 15
+  BEEF: 20
+  RAW_PORKCHOP: 15
+  PORKCHOP: 20
+  RAW_CHICKEN: 10
+  CHICKEN: 15
+  IRON_NUGGET: 8
+  GOLD_NUGGET: 10
+  WITHER_SKELETON_SKULL: 5000
+  NETHER_STAR: 10000
+
+  # Food
+  BREAD: 5
+  WHEAT: 3
+  CARROT: 3
+  POTATO: 3
+  BAKED_POTATO: 5
+  MELON_SLICE: 3
+  SUGAR_CANE: 3
+
+  # Misc
+  SAND: 2
+  GRAVEL: 2
+  FLINT: 5
+  CLAY_BALL: 5
+  BRICK: 8
+  NETHER_BRICK: 8
+  TNT: 10

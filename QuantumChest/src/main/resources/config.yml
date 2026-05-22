@@ -1,0 +1,25 @@
+# QuantumChest Configuration
+hologram:
+  text: "&6&lInfinite Sell Chest"
+  height: 1.5
+
+messages:
+  prefix: "&8[&6&lQuantumChest&8] "
+  no-permission: "&cYou don't have permission to do that!"
+  not-faction-member: "&cYou must be in the same faction as the chest owner to sell!"
+  sold-all: "&aSuccessfully sold all items for &6$%amount%&a!"
+  nothing-to-sell: "&cThere is nothing to sell in this chest!"
+  chest-placed: "&aQuantumChest placed! Right-click to open."
+  chest-broken: "&cQuantumChest removed."
+  given-chest: "&aGave &6%amount% &aQuantumChest to &6%player%&a."
+  received-chest: "&aYou received &6%amount% &aQuantumChest!"
+  no-value: "&cSome items have no sell value and were skipped."
+
+chest-item:
+  name: "&6&lQuantum Chest"
+  lore:
+    - ""
+    - "&7An infinite chest that collects"
+    - "&7and sells all your items."
+    - ""
+    - "&eRight-click to place"

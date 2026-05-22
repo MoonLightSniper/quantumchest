@@ -1,0 +1,22 @@
+name: QuantumChest
+version: 1.0.0
+main: dev.quantum.quantumchest.QuantumChest
+api-version: '1.21'
+authors: [Quantum]
+description: Infinite sell chest with hologram and faction support
+depend: [Vault, DecentHolograms]
+softdepend: [FactionsBridge, Factions]
+
+commands:
+  qchest:
+    description: QuantumChest commands
+    usage: /qchest give <player> [amount]
+    permission: quantumchest.admin
+
+permissions:
+  quantumchest.admin:
+    description: Admin access to QuantumChest
+    default: op
+  quantumchest.use:
+    description: Allows placing and using QuantumChest
+    default: true
