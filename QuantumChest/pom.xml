@@ -21,12 +21,12 @@
             <url>https://repo.papermc.io/repository/maven-public/</url>
         </repository>
         <repository>
-            <id>vault-repo</id>
+            <id>jitpack</id>
             <url>https://jitpack.io</url>
         </repository>
         <repository>
-            <id>decent-holograms-repo</id>
-            <url>https://repo.bg-software.com/repository/api/</url>
+            <id>decent-holograms</id>
+            <url>https://repo.decentholograms.eu/</url>
         </repository>
     </repositories>
 
